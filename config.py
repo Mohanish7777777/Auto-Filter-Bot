@@ -5,7 +5,7 @@ from logging.handlers import RotatingFileHandler
 
 
 # Get a bot token from botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "6202933813:AAHv2-YuEWOJCFqDAGsAoW8XGC_PMcK5BpM")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "6285296811:AAEEUJZqjTDtolijNNxKFBjae3eI-FM9HXU")
 
 # Get from my.telegram.org (or @UseTGXBot)
 APP_ID = int(os.environ.get("APP_ID", "20244111"))
@@ -14,10 +14,10 @@ APP_ID = int(os.environ.get("APP_ID", "20244111"))
 API_HASH = os.environ.get("API_HASH", "b76d27da2a4220fe109fe9ef0e866530")
 
 # Generate a user session string 
-TG_USER_SESSION = os.environ.get("TG_USER_SESSION", "BQBpcYRcF0DdLBWUdhRLmrhRAYZapU3oKzHBzfbRBqcbXcdALMbMTboNY9I1cLgscmOSSNw9jzthyTuzi6cPTA3CXiuOYRKFUMWIj6X9iCa7LeDdc7bA6sadItTDEe5dVrWjsTDBK4PMPo-yAQUlFG8xo_aEsaI63WbFE-FxGSFoRS_uXcYgCrhHEF-yjRCzcOTekcq9MchmYJCfriphCuSMnHFR5PrwUS6xcvTQxo_UXuUSJfxSvrEGNLxmW8un_8pYJvHoKS2oXsPqc-YSMZHEIEkrq4prtJ08HJrR-3vY8p07yicPyRUjTRzIftUlXj3sMFxRkRlz5RFYwepQ5KAAAAAVfRjOkA")
+TG_USER_SESSION = os.environ.get("TG_USER_SESSION", "BQAeIqJFqWheltDVX1DoNbicb867l7-j-HkDiFpTMCDPkjfV45OVkeSUdlCSxYFZflbl_GOivdYVG-xWFEVVeKEpPxdGrE7SNpE0TDbsBR6Ko4judKhTEar4BI6g5vApZOyAdyeQGC6pSN6Ll0U8hutGFrfGc7dKz55oalzpExQgUfWY_ZV7v4Eyc_dqtWK6XjfwT-Mm-uaScaG7b_07VfWbcpkM7nokayc2wCM5oVI5Thzj6TnOwH1AW6CA2iyS_waNi8GjHJMEI0DeBOL7946G-lVWWXXXtF7Am9GwFBiEcUb2DdeDkSe7JmJWyR1tXGQZBIT_SXDy44HVH72eRPcIAAAAAUwsSyoA-yAQUlFG8xo_aEsaI63WbFE-FxGSFoRS_uXcYgCrhHEF-yjRCzcOTekcq9MchmYJCfriphCuSMnHFR5PrwUS6xcvTQxo_UXuUSJfxSvrEGNLxmW8un_8pYJvHoKS2oXsPqc-YSMZHEIEkrq4prtJ08HJrR-3vY8p07yicPyRUjTRzIftUlXj3sMFxRkRlz5RFYwepQ5KAAAAAVfRjOkA")
 
 # ID of Channel from which the bot shoul search files
-MAINCHANNEL_ID = os.environ.get("MAINCHANNEL_ID", "-1792384197")
+MAINCHANNEL_ID = os.environ.get("MAINCHANNEL_ID", "-1001988479230")
 
 
 
